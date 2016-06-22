@@ -6,8 +6,8 @@ A collection of Zabbix templates to manage Fortinet devices.
 Templates
 ---------
 
-  * [ZBX-FORITNET-ENVMON](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-envmon) => use the FORTINET-CORE-MIB and FORTINET-FORTIGATE-MIB to discover and manage environmental.
-  * [ZBX-FORITNET-INTERFACES](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-interfaces) => use the IF-MIB to discover and manage interfaces.
+  * [ZBX-FORTINET-ENVMON](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-envmon) => use the FORTINET-CORE-MIB and FORTINET-FORTIGATE-MIB to discover and manage environmental.
+  * [ZBX-FORTINET-INTERFACES](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-interfaces) => use the IF-MIB to discover and manage interfaces.
   * [ZBX-FORTINET-ANTIVIRUS](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-antivirus) => use the FORTINET-CORE-MIB and FORTINET-FORTIGATE-MIB to discover and manage AntiVirus activity.
   * [ZBX-FORTINET-HA](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-ha) => use the FORTINET-CORE-MIB and FORTINET-FORTIGATE-MIB to discover and manage High Availability.
   * [ZBX-FORTINET-HARDWARE](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-fortinet/zbx-fortinet-hardware) => use the FORTINET-CORE-MIB and FORTINET-FORTIGATE-MIB to discover and manage hardware.
